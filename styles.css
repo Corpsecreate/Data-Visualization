@@ -1,0 +1,36 @@
+
+.heading{
+	color:blue; 
+	font-size: 40 px
+	font-family: "Arial"
+}
+
+.description{
+	color:red;
+	font-size: 20px;
+}
+.svgstyle{
+	width: 380px;
+    height: 380px;
+	background-opacity:0;
+}
+.triforce1{
+	fill:rgb(255,255,0);
+	stroke:black;
+	stroke-width:5;
+}
+.triforce2{
+	fill:rgb(0,255,0);
+	stroke:black;
+	stroke-width:5;
+}
+.triforce3{
+	fill:rgb(255,0,255);
+	stroke:black;
+	stroke-width:5;
+}
+.triforce4{
+	fill:rgb(0,255,255);
+	stroke:black;
+	stroke-width:5;
+}
